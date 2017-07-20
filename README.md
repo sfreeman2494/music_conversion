@@ -1,5 +1,5 @@
 # Music Conversion
-A small python script used to convert Spotify Playlists to Google Play Music playlists.
+A small python script used to convert Spotify playlists to Google Play Music playlists.
 
 # Running the Program
 `python music_conversion.py [spotify_username]`
